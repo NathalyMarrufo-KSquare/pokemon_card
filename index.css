@@ -1,0 +1,96 @@
+.background-Body{
+background-color: rgba(146,209,180,255);
+}
+
+.body-Form{
+    display: flex;
+    
+    height: 500px
+}
+
+.font-select{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+.name-Container{
+    margin-top: 35px;
+    padding-left: 50px;
+}
+
+.space-font-num{
+    margin-block-end: 0;
+    font-size: 12px;
+}
+
+.space-font{
+    margin-block-start: 0;
+}
+
+.size-Container{
+    padding-top: 200px;
+    margin-left: 75px;
+ 
+}
+.size-Container p{
+display: contents;
+font-size: 12px;
+}
+
+.picture-Container{
+    width: fit-content;
+    height: fit-content;
+justify-content: center;  
+}
+
+.pokemon-img{
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 260px;
+    margin-right: 250px;
+}
+.stats-Container{
+    padding-top: 200px;
+   
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.footer-Container{
+    margin-left: 30px;
+}
+
+.directi-Font{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    -webkit-transform: rotate(-90deg); 
+    -moz-transform: rotate(-180deg); 
+    font-size: 12px;
+}
+.icon-Desi{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    margin-right: 7px;
+}
+.icon-pok{
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+
+
+.label-Desi{
+    background-color: white;
+    border-radius: 8px;
+    width: fit-content;
+    color: black;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
